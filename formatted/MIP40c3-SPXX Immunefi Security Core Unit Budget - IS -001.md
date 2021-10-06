@@ -82,11 +82,11 @@ The budget cap will differ from the actual expenses of the core unit. The cap re
 
 Summary | 	Monthly Cost | 	Quarterly
 ------  |  :--------: | :------:
-Facilitator | TBD |	TBD
-Deputy Facilitator |	$6 000 | $18 000
-Immunefi |	TBD | TBD
-ChainSecurity | TBD | TBD
-DeFi Safety | 	TBD | 	TBD
+Facilitator | $2 083.33 |	$6 250+
+Deputy Facilitator |	$10 000 | $30 000
+Immunefi |	$10 000 | $30 000
+ChainSecurity | $10 000 | $30 000
+DeFi Safety | 	$5 000 (one-time) | 	$10 000 (one-time)
 Software and Infrastructure Expenses |	TBD |	TBD
 Company Setup (1st year) |	$2200 (year) | $2200 (year)
 Total |	TBD |	TBD
@@ -100,11 +100,11 @@ Providing additional detail with regards to the above line items:
 
 #### Facilitator
 
-Though listed as an individual, the compensation will be provided directly to Immunefi, pending MIP41c4-SPXX. All costs are only inclusive of all work done by the Facilitator. The Facilitator’s hourly commitment will initially be extensive and decreasing over time until a floor limit is reached, though will increase the hourly contributions as necessary. The quote provided assumes the maximum amount of hours.
+Though listed as an individual, the compensation will be provided directly to Immunefi, pending MIP41c4-SPXX. All costs are only inclusive of all work done by the Facilitator. The quote provided assumes the maximum amount of hours, on a yearly basis, but has been evenly distributed per month.
 
 #### Deputy Facilitator
 
-The Deputy Facilitator will work a minimum of 24 hours per week, increasing the number of hours as necessary as well as having a planned increase to a full time role as the Core Unit progresses. Like the Facilitator, all costs are only inclusive of all work done by the Deputy Facilitator.
+The Deputy Facilitator will work a minimum of 24 hours per week, increasing the number of hours as necessary as well as having a planned increase to a full-time role as the Core Unit progresses. Like the Facilitator, all costs are only inclusive of all work done by the Deputy Facilitator.
 
 #### Immunefi - https://immunefi.com 
 
@@ -124,11 +124,11 @@ The provision of Operational Security Services will be covered under a separate 
 
 #### ChainSecurity - https://chainsecurity.com 
 
-The company, which provides software audits for the MakerDAO smart contracts, will provide final triaging services for smart contract bug reports as well as provide technical assistance during incident response.
+The company, which provides software audits for the MakerDAO smart contracts, will provide final triaging services for smart contract bug reports as well as provide technical assistance during incident response. The quote provided is the maximum estimated amount required assuming a combination of regular working hours as well as emergency response hours. However, it is not expected that this would be used maximally each month.
 
 #### DeFi Safety - https://defisafety.com 
 
-The company, which provides security scoring for DeFi projects, as well as provides recommendations to projects to increase their security levels, will provide assistance with the identification of critical infrastructure and people and incident response preparedness. 
+The company, which provides security scoring for DeFi projects, as well as provides recommendations to projects to increase their security levels, will provide assistance with the identification of critical infrastructure and people and incident response preparedness. The monthly quote provided is a one-time fee for a set amount of hours for general work to be provided by DeFi safety as detailed in the Core Unit proposal which may extend beyond the first month if not consumed. The quarterly amount is including the first month of the set amount of hours purchased but with an additional batch of hours assuming that more will be needed. If more will not be needed, for any reason, it will not be required.
 
 The company’s contribution to the Operational Security Services will be covered under a separate budget proposal. 
 
