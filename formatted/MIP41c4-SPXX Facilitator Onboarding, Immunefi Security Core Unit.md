@@ -5,6 +5,7 @@
 ```
 MIP41c4-SP#: XX
 Author(s): @travinimmunefi
+Contributors: @psychonaut
 Status: RFC
 Date Applied: 2021-10-06
 Date Ratified: <yyyy-mm-dd>
