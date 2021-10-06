@@ -17,6 +17,7 @@ MIP40C3-SPXX adds the MKR Incentive Plan budget for Core Unit IS-001: Immunefi S
 ## Paragraph Summary
 
 MIP40C3-SPXX adds the MKR Incentive Plan budget for Core Unit IS-001: Immunefi Security. It contains:
+
 - Total MKR Expenditure Cap
 - Estimated MKR Expenditure (based on the current team)
 - Escrow Wallet mechanism
@@ -38,6 +39,7 @@ This covers the entire `3 years` plan for `1.2 FTEs`.
 The Estimated MKR Expenditure is our best guess of how much MKR will be used with the current team configuration.
 
 Reasons why the Actual MKR Expenditure could rise closer to the MKR Expenditure Cap:
+
 - A raise for a member of the team
 - New hires
 - Repricing (and resetting) the program, in the case of bear market
@@ -86,6 +88,7 @@ This payment implementation is based on the [SES MKR budget proposal](https://fo
 
 ![payment_flow|690x234](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP27/payment_flow.png)
 - As [defined above](https://forum.makerdao.com/t/mip40c3-sp-1-development-ux-core-unit-budget-dux-001/9774) and in the [Monthly Budget Statement](https://github.com/makerdao-dux/transparency-reporting/blob/main/Monthy%20Budget%20Statements/2021-09.md) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
+
 - To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
   - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `IS Auditors Wallet`, which then acts as an escrow wallet.
   - Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `IS Auditors Wallet` to the `IS Permanent Team Operational Wallet`.
