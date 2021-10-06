@@ -71,7 +71,7 @@ Any changes to these amounts will be reported and reviewed by our budget auditor
 |    Parameter      | Value |
 |---------------|:-----:|
 | MKR/USD lock-in Price (New) |   Trailing 6 month average   |
-| MKR/USD lock-in Price (OG) |   MKR = $3784.77 (4/APR/21 - 01/OCT/20)  |
+| MKR/USD lock-in Price (OG) |   MKR = $3784.77 (4/APR/21 - 01/OCT/21)  |
 | MKR Price Floor |   -30% ($2649)  |
 | Vesting Period |   3 years  |
 | Cliff Vest |  12 months  |
